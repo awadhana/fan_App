@@ -1,16 +1,5 @@
-# fan_page
+Welcome to my Fan App page! 
 
-A new Flutter application.
+This is written in Flutter for both IOS and Android. You should be able to run the program through and IDE with a simulator to see the results. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application was written for a user to log in as a regular user to view messages in the admin has written. Only the admin is able to create new messages and use the textfield option. To view more details about the admin's abilities, feel free to read through the admin page in dart.
