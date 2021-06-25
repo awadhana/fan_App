@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "992372171346",
+    "project_id": "fanapp-b4ed7",
+    "storage_bucket": "fanapp-b4ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992372171346:android:5669b9808eac3caf3ef58b",
+        "android_client_info": {
+          "package_name": "com.mobile.fanApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992372171346-tg52p1336gqcunk92s6ehvpih0fff1lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwQ1V6b51I1DGahUP4uQxh8h6NLUbxMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992372171346-tg52p1336gqcunk92s6ehvpih0fff1lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992372171346-i4aig13ut4dcfvk4fgvm60266hvih4s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.fanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
